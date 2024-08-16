@@ -1,0 +1,5 @@
+﻿  SearchServer.cpp
+C:\Users\Даниил\source\repos\YandexStudy\FindingSystem\SearchServer.h(67,31): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "SearchServer.cpp")
+  
+  FindingSystem.vcxproj -> C:\Users\Даниил\source\repos\YandexStudy\x64\Debug\FindingSystem.exe

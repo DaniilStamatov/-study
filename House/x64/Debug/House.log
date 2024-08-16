@@ -1,0 +1,80 @@
+﻿  Carpenter.cpp
+C:\Users\Даниил\source\repos\YandexStudy\House\Carpenter.cpp(7,38): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  House.cpp
+C:\Users\Даниил\source\repos\YandexStudy\House\Wall.h(2,12): error C2011: Wall: переопределение типа "class"
+  (компиляция исходного файла "House.cpp")
+  C:\Users\Даниил\source\repos\YandexStudy\House\Wall.h(2,7):
+   см. объявление "Wall"
+  
+C:\Users\Даниил\source\repos\YandexStudy\House\painter.h(7,34): error C2027: использование неопределенного типа "Wall"
+  (компиляция исходного файла "House.cpp")
+  C:\Users\Даниил\source\repos\YandexStudy\House\Wall.h(2,7):
+   см. объявление "Wall"
+  
+C:\Users\Даниил\source\repos\YandexStudy\House\painter.h(7,34): error C2061: синтаксическая ошибка: идентификатор "Color"
+  (компиляция исходного файла "House.cpp")
+  
+C:\Users\Даниил\source\repos\YandexStudy\House\painter.h(8,9): error C2027: использование неопределенного типа "Wall"
+  (компиляция исходного файла "House.cpp")
+  C:\Users\Даниил\source\repos\YandexStudy\House\Wall.h(2,7):
+   см. объявление "Wall"
+  
+C:\Users\Даниил\source\repos\YandexStudy\House\painter.h(8,23): error C2065: color: необъявленный идентификатор
+  (компиляция исходного файла "House.cpp")
+  
+C:\Users\Даниил\source\repos\YandexStudy\House\painter.h(11,25): error C2027: использование неопределенного типа "Wall"
+  (компиляция исходного файла "House.cpp")
+  C:\Users\Даниил\source\repos\YandexStudy\House\Wall.h(2,7):
+   см. объявление "Wall"
+  
+C:\Users\Даниил\source\repos\YandexStudy\House\painter.h(12,24): error C2027: использование неопределенного типа "Wall"
+  (компиляция исходного файла "House.cpp")
+  C:\Users\Даниил\source\repos\YandexStudy\House\Wall.h(2,7):
+   см. объявление "Wall"
+  
+C:\Users\Даниил\source\repos\YandexStudy\House\House.cpp(12,10): error C2079: "wall" использует не имеющую определения структуру class "Wall"
+C:\Users\Даниил\source\repos\YandexStudy\House\House.cpp(12,14): error C2440: инициализация: невозможно преобразовать "initializer list" в "int"
+  C:\Users\Даниил\source\repos\YandexStudy\House\House.cpp(12,14):
+  Инициализатор содержит слишком много элементов
+  
+C:\Users\Даниил\source\repos\YandexStudy\House\House.cpp(14,16): error C2664: "double Builder::CalcBricksNeeded(const Wall &) const": невозможно преобразовать аргумент 1 из "int" в "const Wall &"
+  C:\Users\Даниил\source\repos\YandexStudy\House\House.cpp(14,34):
+  Причина: невозможно преобразовать "int" в "const Wall"
+  C:\Users\Даниил\source\repos\YandexStudy\House\House.cpp(14,34):
+  использование неопределенного типа "Wall"
+  C:\Users\Даниил\source\repos\YandexStudy\House\Wall.h(2,7):
+   см. объявление "Wall"
+  C:\Users\Даниил\source\repos\YandexStudy\House\builder.h(7,13):
+   см. объявление "Builder::CalcBricksNeeded"
+  C:\Users\Даниил\source\repos\YandexStudy\House\House.cpp(14,16):
+  при попытке сопоставить список аргументов "(int)"
+  
+C:\Users\Даниил\source\repos\YandexStudy\House\House.cpp(14,10): error C2088: встроенный оператор "<<" не может быть применен к операнду типа "std::ostream"
+C:\Users\Даниил\source\repos\YandexStudy\House\House.cpp(15,17): error C2664: "double Painter::CalcPaintNeeded(const Wall &) const": невозможно преобразовать аргумент 1 из "int" в "const Wall &"
+  C:\Users\Даниил\source\repos\YandexStudy\House\House.cpp(15,34):
+  Причина: невозможно преобразовать "int" в "const Wall"
+  C:\Users\Даниил\source\repos\YandexStudy\House\House.cpp(15,34):
+  использование неопределенного типа "Wall"
+  C:\Users\Даниил\source\repos\YandexStudy\House\Wall.h(2,7):
+   см. объявление "Wall"
+  C:\Users\Даниил\source\repos\YandexStudy\House\painter.h(10,12):
+   см. объявление "Painter::CalcPaintNeeded"
+  C:\Users\Даниил\source\repos\YandexStudy\House\House.cpp(15,17):
+  при попытке сопоставить список аргументов "(int)"
+  
+C:\Users\Даниил\source\repos\YandexStudy\House\House.cpp(15,10): error C2088: встроенный оператор "<<" не может быть применен к операнду типа "std::ostream"
+C:\Users\Даниил\source\repos\YandexStudy\House\House.cpp(16,17): error C2664: "int Carpenter::CalcShelves(const Wall &) const": невозможно преобразовать аргумент 1 из "int" в "const Wall &"
+  C:\Users\Даниил\source\repos\YandexStudy\House\House.cpp(16,30):
+  Причина: невозможно преобразовать "int" в "const Wall"
+  C:\Users\Даниил\source\repos\YandexStudy\House\House.cpp(16,30):
+  использование неопределенного типа "Wall"
+  C:\Users\Даниил\source\repos\YandexStudy\House\Wall.h(2,7):
+   см. объявление "Wall"
+  C:\Users\Даниил\source\repos\YandexStudy\House\carpenter.h(6,6):
+   см. объявление "Carpenter::CalcShelves"
+  C:\Users\Даниил\source\repos\YandexStudy\House\House.cpp(16,17):
+  при попытке сопоставить список аргументов "(int)"
+  
+C:\Users\Даниил\source\repos\YandexStudy\House\House.cpp(16,10): error C2088: встроенный оператор "<<" не может быть применен к операнду типа "std::ostream"
+  Wall.cpp
+  Создание кода...

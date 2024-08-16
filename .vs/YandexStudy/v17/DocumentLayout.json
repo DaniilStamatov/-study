@@ -1,0 +1,269 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\source\\repos\\YandexStudy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC35F0EB-F9AB-4C25-B6BE-164FA90D4FEE}|10module\\10module.vcxproj|C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\source\\repos\\YandexStudy\\10module\\drawable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CC35F0EB-F9AB-4C25-B6BE-164FA90D4FEE}|10module\\10module.vcxproj|solutionrelative:10module\\drawable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\[SuperSliv.biz] [\u042F\u043D\u0434\u0435\u043A\u0441.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C] \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A C\u002B\u002B (2021)\\[SuperSliv.biz] 03 \u042D\u043B\u0435\u0433\u0430\u043D\u0442\u043D\u043E\u0441\u0442\u044C \u0438 \u043C\u0430\u0441\u0448\u0442\u0430\u0431\u0438\u0440\u0443\u0435\u043C\u043E\u0441\u0442\u044C\\02 \u0421\u043F\u0440\u0438\u043D\u0442 10\\02 \u041D\u0430\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u0435 \u0438 \u043F\u043E\u043B\u0438\u043C\u043E\u0440\u0444\u0438\u0437\u043C\\11 \u0414\u0438\u043D\u0430\u043C\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u0438\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0442\u0438\u043F\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 00\\src\\animals.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC683F6-D410-4DB4-8F75-2230D5363AA7}|SVGLib\\SVGLib.vcxproj|C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\source\\repos\\YandexStudy\\SVGLib\\SVGLib.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DC683F6-D410-4DB4-8F75-2230D5363AA7}|SVGLib\\SVGLib.vcxproj|solutionrelative:SVGLib\\SVGLib.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC683F6-D410-4DB4-8F75-2230D5363AA7}|SVGLib\\SVGLib.vcxproj|C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\source\\repos\\YandexStudy\\SVGLib\\svg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DC683F6-D410-4DB4-8F75-2230D5363AA7}|SVGLib\\SVGLib.vcxproj|solutionrelative:SVGLib\\svg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC683F6-D410-4DB4-8F75-2230D5363AA7}|SVGLib\\SVGLib.vcxproj|C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\source\\repos\\YandexStudy\\SVGLib\\svg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DC683F6-D410-4DB4-8F75-2230D5363AA7}|SVGLib\\SVGLib.vcxproj|solutionrelative:SVGLib\\svg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\[SuperSliv.biz] [\u042F\u043D\u0434\u0435\u043A\u0441.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C] \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A C\u002B\u002B (2021)\\[SuperSliv.biz] 03 \u042D\u043B\u0435\u0433\u0430\u043D\u0442\u043D\u043E\u0441\u0442\u044C \u0438 \u043C\u0430\u0441\u0448\u0442\u0430\u0431\u0438\u0440\u0443\u0435\u043C\u043E\u0441\u0442\u044C\\02 \u0421\u043F\u0440\u0438\u043D\u0442 10\\02 \u041D\u0430\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u0435 \u0438 \u043F\u043E\u043B\u0438\u043C\u043E\u0440\u0444\u0438\u0437\u043C\\06 \u0410\u0431\u0441\u0442\u0440\u0430\u043A\u0442\u043D\u044B\u0435 \u043A\u043B\u0430\u0441\u0441\u044B \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 SVG-\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 00\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825FD3A8-D131-4E58-8A14-1162DB8CD31D}|10.2\\10.2.vcxproj|C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\source\\repos\\YandexStudy\\10.2\\Satisfaction\\supervisor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{825FD3A8-D131-4E58-8A14-1162DB8CD31D}|10.2\\10.2.vcxproj|solutionrelative:10.2\\Satisfaction\\supervisor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825FD3A8-D131-4E58-8A14-1162DB8CD31D}|10.2\\10.2.vcxproj|C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\source\\repos\\YandexStudy\\10.2\\Satisfaction\\simulation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{825FD3A8-D131-4E58-8A14-1162DB8CD31D}|10.2\\10.2.vcxproj|solutionrelative:10.2\\Satisfaction\\simulation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825FD3A8-D131-4E58-8A14-1162DB8CD31D}|10.2\\10.2.vcxproj|C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\source\\repos\\YandexStudy\\10.2\\Satisfaction\\people.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{825FD3A8-D131-4E58-8A14-1162DB8CD31D}|10.2\\10.2.vcxproj|solutionrelative:10.2\\Satisfaction\\people.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC35F0EB-F9AB-4C25-B6BE-164FA90D4FEE}|10module\\10module.vcxproj|C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\source\\repos\\YandexStudy\\10module\\Workers\\People.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CC35F0EB-F9AB-4C25-B6BE-164FA90D4FEE}|10module\\10module.vcxproj|solutionrelative:10module\\Workers\\People.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{825FD3A8-D131-4E58-8A14-1162DB8CD31D}|10.2\\10.2.vcxproj|C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\source\\repos\\YandexStudy\\10.2\\10.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{825FD3A8-D131-4E58-8A14-1162DB8CD31D}|10.2\\10.2.vcxproj|solutionrelative:10.2\\10.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC35F0EB-F9AB-4C25-B6BE-164FA90D4FEE}|10module\\10module.vcxproj|C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\source\\repos\\YandexStudy\\10module\\Workers\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CC35F0EB-F9AB-4C25-B6BE-164FA90D4FEE}|10module\\10module.vcxproj|solutionrelative:10module\\Workers\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC35F0EB-F9AB-4C25-B6BE-164FA90D4FEE}|10module\\10module.vcxproj|C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\source\\repos\\YandexStudy\\10module\\10module.cpp||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CC35F0EB-F9AB-4C25-B6BE-164FA90D4FEE}|10module\\10module.vcxproj|solutionrelative:10module\\10module.cpp||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC35F0EB-F9AB-4C25-B6BE-164FA90D4FEE}|10module\\10module.vcxproj|C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\source\\repos\\YandexStudy\\10module\\Workers\\Shapes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CC35F0EB-F9AB-4C25-B6BE-164FA90D4FEE}|10module\\10module.vcxproj|solutionrelative:10module\\Workers\\Shapes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC35F0EB-F9AB-4C25-B6BE-164FA90D4FEE}|10module\\10module.vcxproj|C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\source\\repos\\YandexStudy\\10module\\Workers\\People.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CC35F0EB-F9AB-4C25-B6BE-164FA90D4FEE}|10module\\10module.vcxproj|solutionrelative:10module\\Workers\\People.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\VisualStudio\\VC\\Tools\\MSVC\\14.39.33519\\include\\xutility||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "svg.h",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\source\\repos\\YandexStudy\\SVGLib\\svg.h",
+              "RelativeDocumentMoniker": "SVGLib\\svg.h",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\source\\repos\\YandexStudy\\SVGLib\\svg.h",
+              "RelativeToolTip": "SVGLib\\svg.h",
+              "ViewState": "AQIAAPwAAAAAAAAAAAAAABABAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-09T11:59:33.932Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "drawable.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\source\\repos\\YandexStudy\\10module\\drawable.cpp",
+              "RelativeDocumentMoniker": "10module\\drawable.cpp",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\source\\repos\\YandexStudy\\10module\\drawable.cpp",
+              "RelativeToolTip": "10module\\drawable.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-15T12:46:24.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "animals.cpp",
+              "DocumentMoniker": "G:\\[SuperSliv.biz] [\u042F\u043D\u0434\u0435\u043A\u0441.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C] \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A C\u002B\u002B (2021)\\[SuperSliv.biz] 03 \u042D\u043B\u0435\u0433\u0430\u043D\u0442\u043D\u043E\u0441\u0442\u044C \u0438 \u043C\u0430\u0441\u0448\u0442\u0430\u0431\u0438\u0440\u0443\u0435\u043C\u043E\u0441\u0442\u044C\\02 \u0421\u043F\u0440\u0438\u043D\u0442 10\\02 \u041D\u0430\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u0435 \u0438 \u043F\u043E\u043B\u0438\u043C\u043E\u0440\u0444\u0438\u0437\u043C\\11 \u0414\u0438\u043D\u0430\u043C\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u0438\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0442\u0438\u043F\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 00\\src\\animals.cpp",
+              "ToolTip": "G:\\[SuperSliv.biz] [\u042F\u043D\u0434\u0435\u043A\u0441.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C] \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A C\u002B\u002B (2021)\\[SuperSliv.biz] 03 \u042D\u043B\u0435\u0433\u0430\u043D\u0442\u043D\u043E\u0441\u0442\u044C \u0438 \u043C\u0430\u0441\u0448\u0442\u0430\u0431\u0438\u0440\u0443\u0435\u043C\u043E\u0441\u0442\u044C\\02 \u0421\u043F\u0440\u0438\u043D\u0442 10\\02 \u041D\u0430\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u0435 \u0438 \u043F\u043E\u043B\u0438\u043C\u043E\u0440\u0444\u0438\u0437\u043C\\11 \u0414\u0438\u043D\u0430\u043C\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u043F\u0440\u0438\u0432\u0435\u0434\u0435\u043D\u0438\u0435 \u0442\u0438\u043F\u0430\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 00\\src\\animals.cpp",
+              "ViewState": "AQIAACYAAAAAAAAAAAAiwFAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-15T12:42:11.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "xutility",
+              "DocumentMoniker": "G:\\VisualStudio\\VC\\Tools\\MSVC\\14.39.33519\\include\\xutility",
+              "ToolTip": "G:\\VisualStudio\\VC\\Tools\\MSVC\\14.39.33519\\include\\xutility",
+              "ViewState": "AQIAANsAAAAAAAAAAAAawPMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-09T13:01:28.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SVGLib.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\source\\repos\\YandexStudy\\SVGLib\\SVGLib.cpp",
+              "RelativeDocumentMoniker": "SVGLib\\SVGLib.cpp",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\source\\repos\\YandexStudy\\SVGLib\\SVGLib.cpp",
+              "RelativeToolTip": "SVGLib\\SVGLib.cpp",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAG0AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-09T12:36:18.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.cpp",
+              "DocumentMoniker": "G:\\[SuperSliv.biz] [\u042F\u043D\u0434\u0435\u043A\u0441.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C] \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A C\u002B\u002B (2021)\\[SuperSliv.biz] 03 \u042D\u043B\u0435\u0433\u0430\u043D\u0442\u043D\u043E\u0441\u0442\u044C \u0438 \u043C\u0430\u0441\u0448\u0442\u0430\u0431\u0438\u0440\u0443\u0435\u043C\u043E\u0441\u0442\u044C\\02 \u0421\u043F\u0440\u0438\u043D\u0442 10\\02 \u041D\u0430\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u0435 \u0438 \u043F\u043E\u043B\u0438\u043C\u043E\u0440\u0444\u0438\u0437\u043C\\06 \u0410\u0431\u0441\u0442\u0440\u0430\u043A\u0442\u043D\u044B\u0435 \u043A\u043B\u0430\u0441\u0441\u044B \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 SVG-\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 00\\src\\main.cpp",
+              "ToolTip": "G:\\[SuperSliv.biz] [\u042F\u043D\u0434\u0435\u043A\u0441.\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C] \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0447\u0438\u043A C\u002B\u002B (2021)\\[SuperSliv.biz] 03 \u042D\u043B\u0435\u0433\u0430\u043D\u0442\u043D\u043E\u0441\u0442\u044C \u0438 \u043C\u0430\u0441\u0448\u0442\u0430\u0431\u0438\u0440\u0443\u0435\u043C\u043E\u0441\u0442\u044C\\02 \u0421\u043F\u0440\u0438\u043D\u0442 10\\02 \u041D\u0430\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u0435 \u0438 \u043F\u043E\u043B\u0438\u043C\u043E\u0440\u0444\u0438\u0437\u043C\\06 \u0410\u0431\u0441\u0442\u0440\u0430\u043A\u0442\u043D\u044B\u0435 \u043A\u043B\u0430\u0441\u0441\u044B \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 SVG-\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0438\\\u0417\u0430\u0434\u0430\u043D\u0438\u0435 00\\src\\main.cpp",
+              "ViewState": "AQIAABQAAAAAAAAAAAAkwEIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-09T12:36:21.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "svg.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\source\\repos\\YandexStudy\\SVGLib\\svg.cpp",
+              "RelativeDocumentMoniker": "SVGLib\\svg.cpp",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\source\\repos\\YandexStudy\\SVGLib\\svg.cpp",
+              "RelativeToolTip": "SVGLib\\svg.cpp",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAiwJ4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-09T11:59:27.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "supervisor.h",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\source\\repos\\YandexStudy\\10.2\\Satisfaction\\supervisor.h",
+              "RelativeDocumentMoniker": "10.2\\Satisfaction\\supervisor.h",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\source\\repos\\YandexStudy\\10.2\\Satisfaction\\supervisor.h",
+              "RelativeToolTip": "10.2\\Satisfaction\\supervisor.h",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-08T16:25:40.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "simulation.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\source\\repos\\YandexStudy\\10.2\\Satisfaction\\simulation.cpp",
+              "RelativeDocumentMoniker": "10.2\\Satisfaction\\simulation.cpp",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\source\\repos\\YandexStudy\\10.2\\Satisfaction\\simulation.cpp",
+              "RelativeToolTip": "10.2\\Satisfaction\\simulation.cpp",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAowGsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-08T16:24:00.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "people.h",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\source\\repos\\YandexStudy\\10.2\\Satisfaction\\people.h",
+              "RelativeDocumentMoniker": "10.2\\Satisfaction\\people.h",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\source\\repos\\YandexStudy\\10.2\\Satisfaction\\people.h",
+              "RelativeToolTip": "10.2\\Satisfaction\\people.h",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAYwF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-08T16:23:19.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "10.2.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\source\\repos\\YandexStudy\\10.2\\10.2.cpp",
+              "RelativeDocumentMoniker": "10.2\\10.2.cpp",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\source\\repos\\YandexStudy\\10.2\\10.2.cpp",
+              "RelativeToolTip": "10.2\\10.2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-08T16:22:25.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "10module.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\source\\repos\\YandexStudy\\10module\\10module.cpp",
+              "RelativeDocumentMoniker": "10module\\10module.cpp",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\source\\repos\\YandexStudy\\10module\\10module.cpp",
+              "RelativeToolTip": "10module\\10module.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-08T16:21:21.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\source\\repos\\YandexStudy\\10module\\Workers\\main.cpp",
+              "RelativeDocumentMoniker": "10module\\Workers\\main.cpp",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\source\\repos\\YandexStudy\\10module\\Workers\\main.cpp",
+              "RelativeToolTip": "10module\\Workers\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-08T16:20:49.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Shapes.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\source\\repos\\YandexStudy\\10module\\Workers\\Shapes.cpp",
+              "RelativeDocumentMoniker": "10module\\Workers\\Shapes.cpp",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\source\\repos\\YandexStudy\\10module\\Workers\\Shapes.cpp",
+              "RelativeToolTip": "10module\\Workers\\Shapes.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-08T16:20:48.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "People.h",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\source\\repos\\YandexStudy\\10module\\Workers\\People.h",
+              "RelativeDocumentMoniker": "10module\\Workers\\People.h",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\source\\repos\\YandexStudy\\10module\\Workers\\People.h",
+              "RelativeToolTip": "10module\\Workers\\People.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-08T16:20:44.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "People.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\source\\repos\\YandexStudy\\10module\\Workers\\People.cpp",
+              "RelativeDocumentMoniker": "10module\\Workers\\People.cpp",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\source\\repos\\YandexStudy\\10module\\Workers\\People.cpp",
+              "RelativeToolTip": "10module\\Workers\\People.cpp",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwA0AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-08T16:20:33.234Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

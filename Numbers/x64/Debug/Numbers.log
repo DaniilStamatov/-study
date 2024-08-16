@@ -1,0 +1,3 @@
+﻿  Numbers.cpp
+C:\Users\Даниил\source\repos\YandexStudy\Numbers\Numbers.cpp(31,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Numbers.vcxproj -> C:\Users\Даниил\source\repos\YandexStudy\x64\Debug\Numbers.exe

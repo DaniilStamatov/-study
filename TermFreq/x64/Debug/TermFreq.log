@@ -1,0 +1,12 @@
+﻿  TermFreq.cpp
+C:\Users\Даниил\source\repos\YandexStudy\TermFreq\TermFreq.cpp(138,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Даниил\source\repos\YandexStudy\TermFreq\TermFreq.cpp(168,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Даниил\source\repos\YandexStudy\TermFreq\TermFreq.cpp(299,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Даниил\source\repos\YandexStudy\TermFreq\TermFreq.cpp(462,10): error C2995: std::ostream &operator <<(std::ostream &,const std::map<Key,Value,std::less<_Ty>,std::allocator<std::pair<const _Kty,_Ty>>> &): шаблон функции уже определен
+  C:\Users\Даниил\source\repos\YandexStudy\TermFreq\TermFreq.cpp(89,10):
+   см. объявление "operator <<"
+  
+C:\Users\Даниил\source\repos\YandexStudy\TermFreq\TermFreq.cpp(475,10): error C2995: std::ostream &operator <<(std::ostream &,const std::set<Element,std::less<_Ty>,std::allocator<_Ty>> &): шаблон функции уже определен
+  C:\Users\Даниил\source\repos\YandexStudy\TermFreq\TermFreq.cpp(97,10):
+   см. объявление "operator <<"
+  

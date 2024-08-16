@@ -1,0 +1,5 @@
+﻿  HanoiTower.cpp
+C:\Users\Даниил\source\repos\YandexStudy\HanoiTower\HanoiTower.cpp(61,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Даниил\source\repos\YandexStudy\HanoiTower\HanoiTower.cpp(95,27): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Даниил\source\repos\YandexStudy\HanoiTower\HanoiTower.cpp(114,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  HanoiTower.vcxproj -> C:\Users\Даниил\source\repos\YandexStudy\x64\Debug\HanoiTower.exe

@@ -1,0 +1,7 @@
+﻿  YandexStudy.cpp
+C:\Users\Даниил\source\repos\YandexStudy\YandexStudy\YandexStudy.cpp(36,29): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Даниил\source\repos\YandexStudy\YandexStudy\YandexStudy.cpp(40,29): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Даниил\source\repos\YandexStudy\YandexStudy\YandexStudy.cpp(177,19): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Даниил\source\repos\YandexStudy\YandexStudy\YandexStudy.cpp(183,30): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Даниил\source\repos\YandexStudy\YandexStudy\YandexStudy.cpp(189,30): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  YandexStudy.vcxproj -> C:\Users\Даниил\source\repos\YandexStudy\x64\Debug\YandexStudy.exe

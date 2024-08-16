@@ -1,0 +1,8 @@
+﻿  input_reader.cpp
+  transport_catalogue.cpp
+  Создание кода...
+input_reader.obj : error LNK2005: "double __cdecl geo::ComputeDistance(struct geo::Coordinates,struct geo::Coordinates)" (?ComputeDistance@geo@@YANUCoordinates@1@0@Z) уже определен в 9thmodule.obj
+stat_reader.obj : error LNK2005: "double __cdecl geo::ComputeDistance(struct geo::Coordinates,struct geo::Coordinates)" (?ComputeDistance@geo@@YANUCoordinates@1@0@Z) уже определен в 9thmodule.obj
+transport_catalogue.obj : error LNK2005: "double __cdecl geo::ComputeDistance(struct geo::Coordinates,struct geo::Coordinates)" (?ComputeDistance@geo@@YANUCoordinates@1@0@Z) уже определен в 9thmodule.obj
+input_reader.obj : error LNK2019: ссылка на неразрешенный внешний символ "class std::tuple<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::vector<struct transport::Stop const *,class std::allocator<struct transport::Stop const *> >,bool> __cdecl transport::FillRoute(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &,class transport::Catalogue const &)" (?FillRoute@transport@@YA?AV?$tuple@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$vector@PEBUStop@transport@@V?$allocator@PEBUStop@transport@@@std@@@2@_N@std@@AEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@3@AEBVCatalogue@1@@Z) в функции "void __cdecl transport::FillCatalog(class std::basic_istream<char,struct std::char_traits<char> > &,class transport::Catalogue &)" (?FillCatalog@transport@@YAXAEAV?$basic_istream@DU?$char_traits@D@std@@@std@@AEAVCatalogue@1@@Z).
+C:\Users\Даниил\source\repos\YandexStudy\x64\Debug\9thmodule.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

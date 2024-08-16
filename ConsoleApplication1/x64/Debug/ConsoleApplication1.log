@@ -1,0 +1,210 @@
+﻿G:\VisualStudio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (ConsoleApplication1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  ConsoleApplication1.cpp
+C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(81,17): warning C4297: SingleLinkedList<Test4::DeletionSpy>::BasicIterator<Type>::operator ++: ожидается, что функция не будет выдавать исключения, но она это делает
+C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(81,17): warning C4297:         with
+C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(81,17): warning C4297:         [
+C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(81,17): warning C4297:             Type=Test4::DeletionSpy
+C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(81,17): warning C4297:         ]
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(81,17):
+  для функции указан атрибут __declspec(nothrow), throw(), noexcept(true) или noexcept
+  C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(81,17):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\ConsoleApplication1.cpp(632,13):
+  	выполняется компиляция ссылки на экземпляр класс шаблон функции "SingleLinkedList<Test4::DeletionSpy>::BasicIterator<Type>"
+          with
+          [
+              Type=Test4::DeletionSpy
+          ]
+  	C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(79,24):
+  	во время компиляции функции-члена класс шаблон "SingleLinkedList<Test4::DeletionSpy>::BasicIterator<Type> &SingleLinkedList<Type>::BasicIterator<Type>::operator ++(void) noexcept"
+          with
+          [
+              Type=Test4::DeletionSpy
+          ]
+  		C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\ConsoleApplication1.cpp(747,30):
+  		см. первую ссылку на "SingleLinkedList<Test4::DeletionSpy>::BasicIterator<Type>::operator ++" в "Test4"
+          with
+          [
+              Type=Test4::DeletionSpy
+          ]
+  
+C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(81,17): warning C4297: SingleLinkedList<Test3::ThrowOnCopy>::BasicIterator<Type>::operator ++: ожидается, что функция не будет выдавать исключения, но она это делает
+C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(81,17): warning C4297:         with
+C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(81,17): warning C4297:         [
+C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(81,17): warning C4297:             Type=Test3::ThrowOnCopy
+C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(81,17): warning C4297:         ]
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(81,17):
+  для функции указан атрибут __declspec(nothrow), throw(), noexcept(true) или noexcept
+  C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(81,17):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\ConsoleApplication1.cpp(576,32):
+  	выполняется компиляция ссылки на экземпляр класс шаблон функции "SingleLinkedList<Test3::ThrowOnCopy>::BasicIterator<Type>"
+          with
+          [
+              Type=Test3::ThrowOnCopy
+          ]
+  	C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(79,24):
+  	во время компиляции функции-члена класс шаблон "SingleLinkedList<Test3::ThrowOnCopy>::BasicIterator<Type> &SingleLinkedList<Type>::BasicIterator<Type>::operator ++(void) noexcept"
+          with
+          [
+              Type=Test3::ThrowOnCopy
+          ]
+  		C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\ConsoleApplication1.cpp(600,13):
+  		см. первую ссылку на "SingleLinkedList<Test3::ThrowOnCopy>::BasicIterator<Type>::operator ++" в "Test3"
+          with
+          [
+              Type=Test3::ThrowOnCopy
+          ]
+  
+C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(93,17): warning C4297: SingleLinkedList<int>::BasicIterator<const Type>::operator ++: ожидается, что функция не будет выдавать исключения, но она это делает
+C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(93,17): warning C4297:         with
+C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(93,17): warning C4297:         [
+C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(93,17): warning C4297:             Type=int
+C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(93,17): warning C4297:         ]
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(93,17):
+  для функции указан атрибут __declspec(nothrow), throw(), noexcept(true) или noexcept
+  C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(93,17):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\ConsoleApplication1.cpp(307,9):
+  	выполняется компиляция ссылки на экземпляр класс шаблон функции "SingleLinkedList<int>::BasicIterator<const Type>"
+          with
+          [
+              Type=int
+          ]
+  	C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(91,23):
+  	во время компиляции функции-члена класс шаблон "SingleLinkedList<int>::BasicIterator<const Type> SingleLinkedList<Type>::BasicIterator<const Type>::operator ++(int) noexcept"
+          with
+          [
+              Type=int
+          ]
+  		C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\ConsoleApplication1.cpp(347,13):
+  		см. первую ссылку на "SingleLinkedList<int>::BasicIterator<const Type>::operator ++" в "Test2"
+          with
+          [
+              Type=int
+          ]
+  
+C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(81,17): warning C4297: SingleLinkedList<int>::BasicIterator<const Type>::operator ++: ожидается, что функция не будет выдавать исключения, но она это делает
+C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(81,17): warning C4297:         with
+C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(81,17): warning C4297:         [
+C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(81,17): warning C4297:             Type=int
+C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(81,17): warning C4297:         ]
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(81,17):
+  для функции указан атрибут __declspec(nothrow), throw(), noexcept(true) или noexcept
+  C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(81,17):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(79,24):
+  	во время компиляции функции-члена класс шаблон "SingleLinkedList<int>::BasicIterator<const Type> &SingleLinkedList<Type>::BasicIterator<const Type>::operator ++(void) noexcept"
+          with
+          [
+              Type=int
+          ]
+  		C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\ConsoleApplication1.cpp(342,13):
+  		см. первую ссылку на "SingleLinkedList<int>::BasicIterator<const Type>::operator ++" в "Test2"
+          with
+          [
+              Type=int
+          ]
+  
+C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(81,17): warning C4297: SingleLinkedList<int>::BasicIterator<Type>::operator ++: ожидается, что функция не будет выдавать исключения, но она это делает
+C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(81,17): warning C4297:         with
+C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(81,17): warning C4297:         [
+C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(81,17): warning C4297:             Type=int
+C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(81,17): warning C4297:         ]
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(81,17):
+  для функции указан атрибут __declspec(nothrow), throw(), noexcept(true) или noexcept
+  C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(81,17):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\ConsoleApplication1.cpp(307,9):
+  	выполняется компиляция ссылки на экземпляр класс шаблон функции "SingleLinkedList<int>::BasicIterator<Type>"
+          with
+          [
+              Type=int
+          ]
+  	C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(79,24):
+  	во время компиляции функции-члена класс шаблон "SingleLinkedList<int>::BasicIterator<Type> &SingleLinkedList<Type>::BasicIterator<Type>::operator ++(void) noexcept"
+          with
+          [
+              Type=int
+          ]
+  		C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\ConsoleApplication1.cpp(643,9):
+  		см. первую ссылку на "SingleLinkedList<int>::BasicIterator<Type>::operator ++" в "Test4"
+          with
+          [
+              Type=int
+          ]
+  
+C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(81,17): warning C4297: SingleLinkedList<Test4::ThrowOnCopy>::BasicIterator<Type>::operator ++: ожидается, что функция не будет выдавать исключения, но она это делает
+C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(81,17): warning C4297:         with
+C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(81,17): warning C4297:         [
+C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(81,17): warning C4297:             Type=Test4::ThrowOnCopy
+C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(81,17): warning C4297:         ]
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(81,17):
+  для функции указан атрибут __declspec(nothrow), throw(), noexcept(true) или noexcept
+  C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(81,17):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\ConsoleApplication1.cpp(712,21):
+  	выполняется компиляция ссылки на экземпляр класс шаблон функции "SingleLinkedList<Test4::ThrowOnCopy>::BasicIterator<Type>"
+          with
+          [
+              Type=Test4::ThrowOnCopy
+          ]
+  	C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(79,24):
+  	во время компиляции функции-члена класс шаблон "SingleLinkedList<Test4::ThrowOnCopy>::BasicIterator<Type> &SingleLinkedList<Type>::BasicIterator<Type>::operator ++(void) noexcept"
+          with
+          [
+              Type=Test4::ThrowOnCopy
+          ]
+  		C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(287,70):
+  		см. первую ссылку на "SingleLinkedList<Test4::ThrowOnCopy>::BasicIterator<Type>::operator ++" в "SingleLinkedList<Test4::ThrowOnCopy>::Assign"
+          with
+          [
+              Type=Test4::ThrowOnCopy
+          ]
+  		C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(132,15):
+  		см. первую ссылку на "SingleLinkedList<Test4::ThrowOnCopy>::Assign" в "SingleLinkedList<Test4::ThrowOnCopy>::SingleLinkedList"
+  		C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\ConsoleApplication1.cpp(709,47):
+  		см. первую ссылку на "SingleLinkedList<Test4::ThrowOnCopy>::SingleLinkedList" в "Test4"
+  
+C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(81,17): warning C4297: SingleLinkedList<Test3::ThrowOnCopy>::BasicIterator<const Type>::operator ++: ожидается, что функция не будет выдавать исключения, но она это делает
+C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(81,17): warning C4297:         with
+C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(81,17): warning C4297:         [
+C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(81,17): warning C4297:             Type=Test3::ThrowOnCopy
+C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(81,17): warning C4297:         ]
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(81,17):
+  для функции указан атрибут __declspec(nothrow), throw(), noexcept(true) или noexcept
+  C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(81,17):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\ConsoleApplication1.cpp(598,13):
+  	выполняется компиляция ссылки на экземпляр класс шаблон функции "SingleLinkedList<Test3::ThrowOnCopy>::BasicIterator<const Type>"
+          with
+          [
+              Type=Test3::ThrowOnCopy
+          ]
+  	C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(79,24):
+  	во время компиляции функции-члена класс шаблон "SingleLinkedList<Test3::ThrowOnCopy>::BasicIterator<const Type> &SingleLinkedList<Type>::BasicIterator<const Type>::operator ++(void) noexcept"
+          with
+          [
+              Type=Test3::ThrowOnCopy
+          ]
+  		C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(283,56):
+  		см. первую ссылку на "SingleLinkedList<Test3::ThrowOnCopy>::BasicIterator<const Type>::operator ++" в "SingleLinkedList<Test3::ThrowOnCopy>::Assign"
+          with
+          [
+              Type=Test3::ThrowOnCopy
+          ]
+  		C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(137,15):
+  		см. первую ссылку на "SingleLinkedList<Test3::ThrowOnCopy>::Assign" в "SingleLinkedList<Test3::ThrowOnCopy>::SingleLinkedList"
+  		C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\single_linked_list.h(144,30):
+  		см. первую ссылку на "SingleLinkedList<Test3::ThrowOnCopy>::SingleLinkedList" в "SingleLinkedList<Test3::ThrowOnCopy>::operator ="
+  		C:\Users\Даниил\source\repos\YandexStudy\ConsoleApplication1\ConsoleApplication1.cpp(589,22):
+  		см. первую ссылку на "SingleLinkedList<Test3::ThrowOnCopy>::operator =" в "Test3"
+  
+  ConsoleApplication1.vcxproj -> C:\Users\Даниил\source\repos\YandexStudy\x64\Debug\Sprint6.exe

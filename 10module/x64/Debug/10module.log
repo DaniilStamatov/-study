@@ -1,0 +1,6 @@
+﻿G:\VisualStudio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: два или более файлов с именем main.cpp выводят результаты в одно и то же расположение. Это может стать причиной неверного результата сборки.  Включенные файлы — Paint\main.cpp, Workers\main.cpp.
+  drawable.cpp
+  People.cpp
+  Создание кода...
+x64\Debug\main.obj : warning LNK4042: объект указан более одного раза; лишние не учитываются
+  10module.vcxproj -> C:\Users\Даниил\source\repos\YandexStudy\x64\Debug\10module.exe

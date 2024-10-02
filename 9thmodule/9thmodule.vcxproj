@@ -139,6 +139,7 @@
     <ClCompile Include="ini.cpp" />
     <ClCompile Include="TransportSystem\input_reader\input_reader.cpp" />
     <ClCompile Include="TransportSystem\stat_reader\stat_reader.cpp" />
+    <ClCompile Include="TransportSystem\svg.cpp" />
     <ClCompile Include="TransportSystem\transport_catalogue\transport_catalogue.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -147,6 +148,7 @@
     <ClInclude Include="TransportSystem\geo\geo.h" />
     <ClInclude Include="TransportSystem\input_reader\input_reader.h" />
     <ClInclude Include="TransportSystem\stat_reader\stat_reader.h" />
+    <ClInclude Include="TransportSystem\svg.h" />
     <ClInclude Include="TransportSystem\transport_catalogue\transport_catalogue.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
